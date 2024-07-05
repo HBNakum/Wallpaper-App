@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504423296384",
+    "project_id": "wallapp-dcb0e",
+    "storage_bucket": "wallapp-dcb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504423296384:android:f365b498462f991f8c2565",
+        "android_client_info": {
+          "package_name": "com.example.wall_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504423296384-t6r08m7hp9bksql12u4an872fsaihkqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeHWbZ7neK52MEJ8co0s8twn1ZETBuVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504423296384-t6r08m7hp9bksql12u4an872fsaihkqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
